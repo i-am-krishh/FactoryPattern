@@ -1,0 +1,14 @@
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\bin\Debug\net10.0\FactoryPatternFileExporter.exe
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\bin\Debug\net10.0\FactoryPatternFileExporter.deps.json
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\bin\Debug\net10.0\FactoryPatternFileExporter.runtimeconfig.json
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\bin\Debug\net10.0\FactoryPatternFileExporter.dll
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\bin\Debug\net10.0\FactoryPatternFileExporter.pdb
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.AssemblyInfoInputs.cache
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.AssemblyInfo.cs
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.csproj.CoreCompileInputs.cache
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.dll
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\refint\FactoryPatternFileExporter.dll
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.pdb
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\FactoryPatternFileExporter.genruntimeconfig.cache
+D:\CCTech\C#\FactoryPatternFileExporter\FactoryPatternFileExporter\obj\Debug\net10.0\ref\FactoryPatternFileExporter.dll

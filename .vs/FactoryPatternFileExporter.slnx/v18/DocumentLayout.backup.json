@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|d:\\cctech\\c#\\factorypatternfileexporter\\factorypatternfileexporter\\wordexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|solutionrelative:factorypatternfileexporter\\wordexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|d:\\cctech\\c#\\factorypatternfileexporter\\factorypatternfileexporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|solutionrelative:factorypatternfileexporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|d:\\cctech\\c#\\factorypatternfileexporter\\factorypatternfileexporter\\idocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|solutionrelative:factorypatternfileexporter\\idocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|d:\\cctech\\c#\\factorypatternfileexporter\\factorypatternfileexporter\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|solutionrelative:factorypatternfileexporter\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|d:\\cctech\\c#\\factorypatternfileexporter\\factorypatternfileexporter\\pdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DB8B8B-800C-617F-24B9-074BE73D1919}|FactoryPatternFileExporter\\FactoryPatternFileExporter.csproj|solutionrelative:factorypatternfileexporter\\pdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelExporter.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\ExcelExporter.cs",
+              "RelativeDocumentMoniker": "FactoryPatternFileExporter\\ExcelExporter.cs",
+              "ToolTip": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\ExcelExporter.cs",
+              "RelativeToolTip": "FactoryPatternFileExporter\\ExcelExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:28:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordExporter.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\WordExporter.cs",
+              "RelativeDocumentMoniker": "FactoryPatternFileExporter\\WordExporter.cs",
+              "ToolTip": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\WordExporter.cs",
+              "RelativeToolTip": "FactoryPatternFileExporter\\WordExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:13:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfExporter.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\PdfExporter.cs",
+              "RelativeDocumentMoniker": "FactoryPatternFileExporter\\PdfExporter.cs",
+              "ToolTip": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\PdfExporter.cs",
+              "RelativeToolTip": "FactoryPatternFileExporter\\PdfExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:35:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDocumentExporter.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\IDocumentExporter.cs",
+              "RelativeDocumentMoniker": "FactoryPatternFileExporter\\IDocumentExporter.cs",
+              "ToolTip": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\IDocumentExporter.cs",
+              "RelativeToolTip": "FactoryPatternFileExporter\\IDocumentExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:34:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPatternFileExporter\\Program.cs",
+              "ToolTip": "D:\\CCTech\\C#\\FactoryPatternFileExporter\\FactoryPatternFileExporter\\Program.cs",
+              "RelativeToolTip": "FactoryPatternFileExporter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:34:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
